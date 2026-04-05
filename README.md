@@ -195,13 +195,6 @@ I build secure mobile apps with **Flutter**, develop custom **Linux environments
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maulin18203&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Maulin's GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maulin18203&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=maulin18203&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
