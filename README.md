@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://maulin-cv.netlify.app/Photos/mkp.png](https://maulin-cv.netlify.app/Photos/mkp.png)" width="140" style="border-radius:50%" alt="Maulin K Patel"/>
+<img src="https://maulin-cv.netlify.app/Photos/mkp.png" width="140" style="border-radius:50%" alt="Maulin K Patel"/>
 
 # Maulin K. Patel 👨‍💻
 
