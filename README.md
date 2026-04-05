@@ -1,7 +1,5 @@
 <div align="center">
 
-![Maulin K Patel](https://avatars.githubusercontent.com/maulin18203?v=4&s=140)
-
 # Maulin K. Patel 👨‍💻
 
 ### 💻 Software Developer · 🔐 Security Analyst · ⚙️ IT Support & IoT Engineer
